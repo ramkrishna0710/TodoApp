@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.coding.meet.todo_app-mergeDebugResources-32:/layout/add_task_dialog.xml",
+        "source": "com.coding.meet.todo_app-main-35:/layout/add_task_dialog.xml"
+    },
+    {
+        "merged": "com.coding.meet.todo_app-mergeDebugResources-32:/layout/view_task_list_layout.xml",
+        "source": "com.coding.meet.todo_app-main-35:/layout/view_task_list_layout.xml"
+    },
+    {
+        "merged": "com.coding.meet.todo_app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.coding.meet.todo_app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.coding.meet.todo_app-mergeDebugResources-32:/layout/update_task_dialog.xml",
+        "source": "com.coding.meet.todo_app-main-35:/layout/update_task_dialog.xml"
+    },
+    {
+        "merged": "com.coding.meet.todo_app-mergeDebugResources-32:/layout/loading_dialog.xml",
+        "source": "com.coding.meet.todo_app-main-35:/layout/loading_dialog.xml"
+    },
+    {
+        "merged": "com.coding.meet.todo_app-mergeDebugResources-32:/layout/view_task_grid_layout.xml",
+        "source": "com.coding.meet.todo_app-main-35:/layout/view_task_grid_layout.xml"
+    }
+]
